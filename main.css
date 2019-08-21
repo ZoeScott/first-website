@@ -1,0 +1,25 @@
+li {
+    color: black
+}
+
+h1 {
+    color: rgb(86, 9, 158);
+    font-size: 30pt;
+}
+
+h1, li, h2, ul, p, ol {
+background-color: rgb(245, 207, 213); 
+width: 100%;
+font-size: 24pt
+}
+
+body {
+    background-color: rgba(44, 43, 94, 0.589);
+    border-style: groove;
+    border: 5px solid rgb(86, 9, 158)}
+
+h2 {
+    color: rgb(86, 9, 158)
+}
+    
+
